@@ -1,0 +1,15 @@
+#dateButton {
+    border: none;
+    border-radius: 15px;
+    background-color: #CCC;
+    width: 120px;
+    height: 25px;
+    text-align: center;
+}
+#dateButton:hover {
+    background-color: #DDD;
+}
+#dateButton:active {
+    background-color: #DDD;
+    border-top: 1px solid #777;
+}
